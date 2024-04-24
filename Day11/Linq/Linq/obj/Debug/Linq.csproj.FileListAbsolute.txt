@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Advance\Day11\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Nimap\Desktop\c# Advance\Day11\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Nimap\Desktop\c# Advance\Day11\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day11\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Advance\Day11\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Advance\Day11\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Nimap\Desktop\c# Advance\Day11\Linq\Linq\obj\Debug\Linq.pdb

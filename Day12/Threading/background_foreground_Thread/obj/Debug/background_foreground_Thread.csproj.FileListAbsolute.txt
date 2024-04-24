@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Advance\Day12\Threading\background_foreground_Thread\bin\Debug\background_foreground_Thread.exe.config
+C:\Users\Nimap\Desktop\c# Advance\Day12\Threading\background_foreground_Thread\bin\Debug\background_foreground_Thread.exe
+C:\Users\Nimap\Desktop\c# Advance\Day12\Threading\background_foreground_Thread\bin\Debug\background_foreground_Thread.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day12\Threading\background_foreground_Thread\obj\Debug\background_foreground_Thread.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Advance\Day12\Threading\background_foreground_Thread\obj\Debug\background_foreground_Thread.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Advance\Day12\Threading\background_foreground_Thread\obj\Debug\background_foreground_Thread.exe
+C:\Users\Nimap\Desktop\c# Advance\Day12\Threading\background_foreground_Thread\obj\Debug\background_foreground_Thread.pdb

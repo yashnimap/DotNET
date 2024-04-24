@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Advance\Day9\Coolection\Coolection\bin\Debug\Coolection.exe.config
+C:\Users\Nimap\Desktop\c# Advance\Day9\Coolection\Coolection\bin\Debug\Coolection.exe
+C:\Users\Nimap\Desktop\c# Advance\Day9\Coolection\Coolection\bin\Debug\Coolection.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day9\Coolection\Coolection\obj\Debug\Coolection.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Advance\Day9\Coolection\Coolection\obj\Debug\Coolection.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Advance\Day9\Coolection\Coolection\obj\Debug\Coolection.exe
+C:\Users\Nimap\Desktop\c# Advance\Day9\Coolection\Coolection\obj\Debug\Coolection.pdb

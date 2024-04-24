@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Advance\Day9\Anonymus\Anonymus\bin\Debug\Anonymus.exe.config
+C:\Users\Nimap\Desktop\c# Advance\Day9\Anonymus\Anonymus\bin\Debug\Anonymus.exe
+C:\Users\Nimap\Desktop\c# Advance\Day9\Anonymus\Anonymus\bin\Debug\Anonymus.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day9\Anonymus\Anonymus\obj\Debug\Anonymus.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Advance\Day9\Anonymus\Anonymus\obj\Debug\Anonymus.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Advance\Day9\Anonymus\Anonymus\obj\Debug\Anonymus.exe
+C:\Users\Nimap\Desktop\c# Advance\Day9\Anonymus\Anonymus\obj\Debug\Anonymus.pdb

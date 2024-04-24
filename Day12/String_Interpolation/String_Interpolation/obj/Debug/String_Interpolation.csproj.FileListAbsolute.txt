@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Advance\Day12\String_Interpolation\String_Interpolation\bin\Debug\String_Interpolation.exe.config
+C:\Users\Nimap\Desktop\c# Advance\Day12\String_Interpolation\String_Interpolation\bin\Debug\String_Interpolation.exe
+C:\Users\Nimap\Desktop\c# Advance\Day12\String_Interpolation\String_Interpolation\bin\Debug\String_Interpolation.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day12\String_Interpolation\String_Interpolation\obj\Debug\String_Interpolation.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Advance\Day12\String_Interpolation\String_Interpolation\obj\Debug\String_Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Advance\Day12\String_Interpolation\String_Interpolation\obj\Debug\String_Interpolation.exe
+C:\Users\Nimap\Desktop\c# Advance\Day12\String_Interpolation\String_Interpolation\obj\Debug\String_Interpolation.pdb

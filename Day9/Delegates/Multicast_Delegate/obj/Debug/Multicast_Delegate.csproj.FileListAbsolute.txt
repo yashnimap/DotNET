@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Advance\Day9\Delegates\Multicast_Delegate\bin\Debug\Multicast_Delegate.exe.config
+C:\Users\Nimap\Desktop\c# Advance\Day9\Delegates\Multicast_Delegate\bin\Debug\Multicast_Delegate.exe
+C:\Users\Nimap\Desktop\c# Advance\Day9\Delegates\Multicast_Delegate\bin\Debug\Multicast_Delegate.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day9\Delegates\Multicast_Delegate\obj\Debug\Multicast_Delegate.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Advance\Day9\Delegates\Multicast_Delegate\obj\Debug\Multicast_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Advance\Day9\Delegates\Multicast_Delegate\obj\Debug\Multicast_Delegate.exe
+C:\Users\Nimap\Desktop\c# Advance\Day9\Delegates\Multicast_Delegate\obj\Debug\Multicast_Delegate.pdb

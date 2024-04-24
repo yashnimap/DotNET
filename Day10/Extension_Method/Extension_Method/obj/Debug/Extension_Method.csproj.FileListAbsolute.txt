@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Advance\Day10\Extension_Method\Extension_Method\bin\Debug\Extension_Method.exe.config
+C:\Users\Nimap\Desktop\c# Advance\Day10\Extension_Method\Extension_Method\bin\Debug\Extension_Method.exe
+C:\Users\Nimap\Desktop\c# Advance\Day10\Extension_Method\Extension_Method\bin\Debug\Extension_Method.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day10\Extension_Method\Extension_Method\obj\Debug\Extension_Method.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Advance\Day10\Extension_Method\Extension_Method\obj\Debug\Extension_Method.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Advance\Day10\Extension_Method\Extension_Method\obj\Debug\Extension_Method.exe
+C:\Users\Nimap\Desktop\c# Advance\Day10\Extension_Method\Extension_Method\obj\Debug\Extension_Method.pdb

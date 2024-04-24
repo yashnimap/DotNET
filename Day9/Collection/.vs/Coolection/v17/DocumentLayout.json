@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\c# Advance\\Day9\\Coolection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92EA98C7-4906-49F3-B2A0-6ADD2B1BF01C}|Coolection\\Coolection.csproj|c:\\users\\nimap\\desktop\\c# advance\\day9\\coolection\\coolection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EA98C7-4906-49F3-B2A0-6ADD2B1BF01C}|Coolection\\Coolection.csproj|solutionrelative:coolection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Advance\\Day9\\Coolection\\Coolection\\Program.cs",
+              "RelativeDocumentMoniker": "Coolection\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Advance\\Day9\\Coolection\\Coolection\\Program.cs",
+              "RelativeToolTip": "Coolection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:23:43.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

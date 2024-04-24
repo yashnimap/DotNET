@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading\Threading.csproj", "{49E4125B-A6C8-4C4D-AEBC-7B0CBFA9B0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "background_foreground_Thread", "background_foreground_Thread\background_foreground_Thread.csproj", "{841BD2A8-8B7C-4D94-AC26-0AF90083CE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E4125B-A6C8-4C4D-AEBC-7B0CBFA9B0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E4125B-A6C8-4C4D-AEBC-7B0CBFA9B0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E4125B-A6C8-4C4D-AEBC-7B0CBFA9B0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E4125B-A6C8-4C4D-AEBC-7B0CBFA9B0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841BD2A8-8B7C-4D94-AC26-0AF90083CE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841BD2A8-8B7C-4D94-AC26-0AF90083CE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841BD2A8-8B7C-4D94-AC26-0AF90083CE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841BD2A8-8B7C-4D94-AC26-0AF90083CE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB8B8D9-2003-49B1-AF13-B029C5EAD98D}
+	EndGlobalSection
+EndGlobal
