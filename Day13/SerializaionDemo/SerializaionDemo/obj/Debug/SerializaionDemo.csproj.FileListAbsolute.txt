@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\c# Advance\Day13\SerializaionDemo\SerializaionDemo\bin\Debug\SerializaionDemo.exe.config
+C:\Users\Nimap\Desktop\c# Advance\Day13\SerializaionDemo\SerializaionDemo\bin\Debug\SerializaionDemo.exe
+C:\Users\Nimap\Desktop\c# Advance\Day13\SerializaionDemo\SerializaionDemo\bin\Debug\SerializaionDemo.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day13\SerializaionDemo\SerializaionDemo\obj\Debug\SerializaionDemo.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Advance\Day13\SerializaionDemo\SerializaionDemo\obj\Debug\SerializaionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Advance\Day13\SerializaionDemo\SerializaionDemo\obj\Debug\SerializaionDemo.exe
+C:\Users\Nimap\Desktop\c# Advance\Day13\SerializaionDemo\SerializaionDemo\obj\Debug\SerializaionDemo.pdb
