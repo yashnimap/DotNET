@@ -1,0 +1,14 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\bin\Debug\Code_First.exe.config
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\bin\Debug\Code_First.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\bin\Debug\Code_First.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\obj\Debug\Code_First.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\obj\Debug\Code_First.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\obj\Debug\Code_First.csproj.Up2Date
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\obj\Debug\Code_First.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\obj\Debug\Code_First.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\obj\Debug\Code_First.Migrations.initialmodel.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day14_EntityFramework\Day14_EntityFramework\Entity_Framework\Code_First\obj\Debug\Code_First.csproj.GenerateResource.cache

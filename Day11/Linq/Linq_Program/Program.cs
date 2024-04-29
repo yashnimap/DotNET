@@ -36,7 +36,7 @@ namespace Linq_Program
 
                 //Linq extension method
                 var checkBooks = books
-                                      .Where(b => b.price < 6)
+                                      .Where(b => b.Title == "c#")
                                       .OrderBy(b=> b.price);
 
                 foreach (var book in checkBooks)

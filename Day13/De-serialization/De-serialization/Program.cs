@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.Serialization.Formatters.Binary;
-
-//using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,11 +15,12 @@ namespace De_serialization
             string path = @"C:\Users\Nimap\Desktop\serializationFile\sample.text";
             FileStream stream = new FileStream(path, FileMode.Open);
             BinaryFormatter formatter = new BinaryFormatter();
-            Employee emp = (Employee)formatter.Deserialize(stream);
-            if (emp != null)
+            SerializaionDemo.Employee emp = (SerializaionDemo.Employee)formatter.Deserialize(stream);
+            De_serialization.Employee demp = new De_serialization.Employee(emp.id,emp.name);
+            if (demp != null)
             {
-                Console.WriteLine("Employee id: " + emp.id);
-                Console.WriteLine("Employee name: " + emp.name);
+                Console.WriteLine("Employee id: " + demp.id);
+                Console.WriteLine("Employee name: " + demp.name);
             }
             else
             {

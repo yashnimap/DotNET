@@ -1,0 +1,16 @@
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\bin\Debug\Entity_Framework.exe.config
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\bin\Debug\Entity_Framework.exe
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\bin\Debug\Entity_Framework.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\obj\Debug\Entity_Framework.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\obj\Debug\Entity_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\obj\Debug\Entity_F.E2613490.Up2Date
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\obj\Debug\Entity_Framework.exe
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\obj\Debug\Entity_Framework.pdb
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\obj\Debug\Entity_Framework.Migrations.CreatePost.resources
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\obj\Debug\Entity_Framework.csproj.GenerateResource.cache
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\obj\Debug\Entity_Framework.Migrations.addAuthor.resources
+C:\Users\Nimap\Desktop\c# Advance\Day14_EntityFramework\Entity_Framework\Entity_Framework\obj\Debug\Entity_Framework.Migrations.dsdfsf.resources

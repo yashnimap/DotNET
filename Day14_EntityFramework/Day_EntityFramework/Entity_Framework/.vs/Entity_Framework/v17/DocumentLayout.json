@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{728A8F1A-ABC3-435A-98F2-2F1E20A78A2A}|Code_First\\Code_First.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day14_entityframework\\day_entityframework\\entity_framework\\code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728A8F1A-ABC3-435A-98F2-2F1E20A78A2A}|Code_First\\Code_First.csproj|solutionrelative:code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728A8F1A-ABC3-435A-98F2-2F1E20A78A2A}|Code_First\\Code_First.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\code_first\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{728A8F1A-ABC3-435A-98F2-2F1E20A78A2A}|Code_First\\Code_First.csproj|solutionrelative:code_first\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728A8F1A-ABC3-435A-98F2-2F1E20A78A2A}|Code_First\\Code_First.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\code_first\\migrations\\202404270430563_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728A8F1A-ABC3-435A-98F2-2F1E20A78A2A}|Code_First\\Code_First.csproj|solutionrelative:code_first\\migrations\\202404270430563_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\Code_First\\PlutoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code_First\\PlutoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlutoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\Code_First\\PlutoContext.cs",
+              "RelativeDocumentMoniker": "Code_First\\PlutoContext.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\Code_First\\PlutoContext.cs",
+              "RelativeToolTip": "Code_First\\PlutoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:20:50.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202404270430563_initialmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\Code_First\\Migrations\\202404270430563_initialmodel.cs",
+              "RelativeDocumentMoniker": "Code_First\\Migrations\\202404270430563_initialmodel.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\Code_First\\Migrations\\202404270430563_initialmodel.cs",
+              "RelativeToolTip": "Code_First\\Migrations\\202404270430563_initialmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T04:31:43.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\Code_First\\App.config",
+              "RelativeDocumentMoniker": "Code_First\\App.config",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\Code_First\\App.config",
+              "RelativeToolTip": "Code_First\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T04:06:08.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\Code_First\\Program.cs",
+              "RelativeDocumentMoniker": "Code_First\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day14_EntityFramework\\Day_EntityFramework\\Entity_Framework\\Code_First\\Program.cs",
+              "RelativeToolTip": "Code_First\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:05:57.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

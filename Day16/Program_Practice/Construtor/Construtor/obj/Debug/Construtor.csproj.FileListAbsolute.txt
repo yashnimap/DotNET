@@ -1,0 +1,7 @@
+C:\Users\Nimap\Desktop\C# Basics_Task\Construtor\Construtor\bin\Debug\Construtor.exe.config
+C:\Users\Nimap\Desktop\C# Basics_Task\Construtor\Construtor\bin\Debug\Construtor.exe
+C:\Users\Nimap\Desktop\C# Basics_Task\Construtor\Construtor\bin\Debug\Construtor.pdb
+C:\Users\Nimap\Desktop\C# Basics_Task\Construtor\Construtor\obj\Debug\Construtor.csproj.AssemblyReference.cache
+C:\Users\Nimap\Desktop\C# Basics_Task\Construtor\Construtor\obj\Debug\Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Desktop\C# Basics_Task\Construtor\Construtor\obj\Debug\Construtor.exe
+C:\Users\Nimap\Desktop\C# Basics_Task\Construtor\Construtor\obj\Debug\Construtor.pdb

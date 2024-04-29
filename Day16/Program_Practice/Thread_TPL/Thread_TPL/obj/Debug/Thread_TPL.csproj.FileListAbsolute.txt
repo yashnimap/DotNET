@@ -1,0 +1,7 @@
+C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Thread_TPL\Thread_TPL\bin\Debug\Thread_TPL.exe.config
+C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Thread_TPL\Thread_TPL\bin\Debug\Thread_TPL.exe
+C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Thread_TPL\Thread_TPL\bin\Debug\Thread_TPL.pdb
+C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Thread_TPL\Thread_TPL\obj\Debug\Thread_TPL.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Thread_TPL\Thread_TPL\obj\Debug\Thread_TPL.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Thread_TPL\Thread_TPL\obj\Debug\Thread_TPL.exe
+C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Thread_TPL\Thread_TPL\obj\Debug\Thread_TPL.pdb

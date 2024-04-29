@@ -22,21 +22,21 @@ namespace SerializaionDemo
             //Console.WriteLine("file has been created successfully");
             //Console.ReadLine();
 
-            string path = @"C:\Users\Nimap\Desktop\serializationFile\sample.text";
-            FileStream stream = new FileStream(path, FileMode.Open);
-            BinaryFormatter formatter = new BinaryFormatter();
-            Employee emp = (Employee)formatter.Deserialize(stream);
-            if (emp != null)
-            {
-                Console.WriteLine("Employee id: " + emp.id);
-                Console.WriteLine("Employee name: " + emp.name);
-            }
-            else
-            {
-                Console.WriteLine("Failed to deserialize Employee object.");
-            }
+            //string path = @"C:\Users\Nimap\Desktop\serializationFile\sample.text";
+            //FileStream stream = new FileStream(path, FileMode.Open);
+            //BinaryFormatter formatter = new BinaryFormatter();
+            //Employee emp = (Employee)formatter.Deserialize(stream);
+            //if (emp != null)
+            //{
+            //    Console.WriteLine("Employee id: " + emp.id);
+            //    Console.WriteLine("Employee name: " + emp.name);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Failed to deserialize Employee object.");
+            //}
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
 

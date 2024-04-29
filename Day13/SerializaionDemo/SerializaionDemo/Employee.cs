@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace SerializaionDemo
 {
     [Serializable]
-    internal class Employee
+    public class Employee
     {
         public int id;
         public string name;
