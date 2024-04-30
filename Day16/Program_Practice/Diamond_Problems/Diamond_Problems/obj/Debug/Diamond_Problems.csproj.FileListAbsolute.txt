@@ -5,3 +5,10 @@ C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Diamond_Problems
 C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Diamond_Problems\Diamond_Problems\obj\Debug\Diamond_Problems.csproj.CoreCompileInputs.cache
 C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Diamond_Problems\Diamond_Problems\obj\Debug\Diamond_Problems.exe
 C:\Users\Nimap\OneDrive\Desktop\C# Basics_Task\Program_Practice\Diamond_Problems\Diamond_Problems\obj\Debug\Diamond_Problems.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day16\Program_Practice\Diamond_Problems\Diamond_Problems\bin\Debug\Diamond_Problems.exe.config
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day16\Program_Practice\Diamond_Problems\Diamond_Problems\bin\Debug\Diamond_Problems.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day16\Program_Practice\Diamond_Problems\Diamond_Problems\bin\Debug\Diamond_Problems.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day16\Program_Practice\Diamond_Problems\Diamond_Problems\obj\Debug\Diamond_Problems.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day16\Program_Practice\Diamond_Problems\Diamond_Problems\obj\Debug\Diamond_Problems.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day16\Program_Practice\Diamond_Problems\Diamond_Problems\obj\Debug\Diamond_Problems.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day16\Program_Practice\Diamond_Problems\Diamond_Problems\obj\Debug\Diamond_Problems.pdb

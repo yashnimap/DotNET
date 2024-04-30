@@ -1,0 +1,14 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\bin\Debug\Course.exe.config
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\bin\Debug\Course.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\bin\Debug\Course.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\obj\Debug\CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\obj\Debug\Course.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\obj\Debug\Course.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\obj\Debug\CodeFirst.csproj.Up2Date
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\obj\Debug\Course.Migrations.initialModel.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\Course\Course\obj\Debug\CodeFirst.csproj.GenerateResource.cache

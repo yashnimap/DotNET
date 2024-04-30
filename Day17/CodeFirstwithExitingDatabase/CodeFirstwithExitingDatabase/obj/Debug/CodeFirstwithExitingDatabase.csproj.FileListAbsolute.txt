@@ -1,0 +1,15 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\bin\Debug\CodeFirstwithExitingDatabase.exe.config
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\bin\Debug\CodeFirstwithExitingDatabase.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\bin\Debug\CodeFirstwithExitingDatabase.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirs.DC71F24E.Up2Date
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.initialmodel.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.csproj.GenerateResource.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.addCategoryTable.resources

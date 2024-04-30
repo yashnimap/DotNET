@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\c# Advance\\Day9\\Delegates\\",
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day9\\Delegates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3822069B-AE12-4552-9C09-F6EBD51ECC34}|Multicast_Delegate\\Multicast_Delegate.csproj|c:\\users\\nimap\\desktop\\c# advance\\day9\\delegates\\multicast_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3822069B-AE12-4552-9C09-F6EBD51ECC34}|Multicast_Delegate\\Multicast_Delegate.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day9\\delegates\\multicast_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3822069B-AE12-4552-9C09-F6EBD51ECC34}|Multicast_Delegate\\Multicast_Delegate.csproj|solutionrelative:multicast_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FF88FBD-16A6-49B5-9281-C267B521CD88}|Delegates\\Delegates.csproj|c:\\users\\nimap\\desktop\\c# advance\\day9\\delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FF88FBD-16A6-49B5-9281-C267B521CD88}|Delegates\\Delegates.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day9\\Delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FF88FBD-16A6-49B5-9281-C267B521CD88}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Advance\\Day9\\Delegates\\Multicast_Delegate\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day9\\Delegates\\Multicast_Delegate\\Program.cs",
               "RelativeDocumentMoniker": "Multicast_Delegate\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Advance\\Day9\\Delegates\\Multicast_Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day9\\Delegates\\Multicast_Delegate\\Program.cs",
               "RelativeToolTip": "Multicast_Delegate\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T10:09:00.543Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\c# Advance\\Day9\\Delegates\\Delegates\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day9\\Delegates\\Delegates\\Program.cs",
               "RelativeDocumentMoniker": "Delegates\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\c# Advance\\Day9\\Delegates\\Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day9\\Delegates\\Delegates\\Program.cs",
               "RelativeToolTip": "Delegates\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T09:10:40.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T09:10:40.747Z"
             }
           ]
         }

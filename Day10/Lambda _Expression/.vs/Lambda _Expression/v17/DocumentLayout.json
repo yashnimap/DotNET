@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nimap\\Desktop\\C# Basics_Task\\Lambda _Expression\\",
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day10\\Lambda _Expression\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{535C58E0-3B1E-46FE-A7A6-A3DA68951E09}|Lambda _Expression\\Lambda _Expression.csproj|c:\\users\\nimap\\desktop\\c# basics_task\\lambda _expression\\lambda _expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{535C58E0-3B1E-46FE-A7A6-A3DA68951E09}|Lambda _Expression\\Lambda _Expression.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day10\\lambda _expression\\lambda _expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{535C58E0-3B1E-46FE-A7A6-A3DA68951E09}|Lambda _Expression\\Lambda _Expression.csproj|solutionrelative:lambda _expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\Desktop\\C# Basics_Task\\Lambda _Expression\\Lambda _Expression\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day10\\Lambda _Expression\\Lambda _Expression\\Program.cs",
               "RelativeDocumentMoniker": "Lambda _Expression\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\Desktop\\C# Basics_Task\\Lambda _Expression\\Lambda _Expression\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day10\\Lambda _Expression\\Lambda _Expression\\Program.cs",
               "RelativeToolTip": "Lambda _Expression\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T04:38:10.312Z",
               "EditorCaption": ""

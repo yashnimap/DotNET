@@ -23,7 +23,9 @@ namespace Diamond_Problems
         void INTERFACEA.method1() { Console.WriteLine("interfaceA method 1"); }
         void INTERFACEA.method2() { Console.WriteLine("interfaceA method 2"); }
         void INTERFACEB.method1() { Console.WriteLine("interfaceB method 1"); }
-        void INTERFACEB.method2() { Console.WriteLine("interfaceB method 2"); }   
+        void INTERFACEB.method2() { Console.WriteLine("interfaceB method 2"); }
+
+        
     }
     internal class Program 
     {
@@ -31,7 +33,13 @@ namespace Diamond_Problems
         {
             INTERFACEA C = new C();
             C.method1();
-            C.method2();    
+            C.method2();
+
+            INTERFACEB B = new C();
+            B.method1();
+            B.method2();
+
+   
         }
     }
 }
