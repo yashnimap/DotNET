@@ -13,3 +13,10 @@ C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\Co
 C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.initialmodel.resources
 C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.csproj.GenerateResource.cache
 C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.addCategoryTable.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.AddCategoryColumnstoCourseTable.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.AddDatePublishedColumnToCoursesTable.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.RenameLevelToPriceinCourseTable.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.RenameLevelToPriceinCourseTable1.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.DeleteDatePublishedColumnFromCorseTable.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.DeleteCategoryColumnFromCourseTable.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day17\CodeFirstwithExitingDatabase\CodeFirstwithExitingDatabase\obj\Debug\CodeFirstwithExitingDatabase.Migrations.DeleteCategoryiesTable.resources

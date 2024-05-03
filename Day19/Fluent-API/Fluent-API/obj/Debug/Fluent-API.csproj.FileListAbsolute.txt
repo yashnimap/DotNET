@@ -1,0 +1,14 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\bin\Debug\Fluent-API.exe.config
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\bin\Debug\Fluent-API.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\bin\Debug\Fluent-API.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\obj\Debug\Fluent-API.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\obj\Debug\Fluent-API.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\obj\Debug\Fluent-API.csproj.Up2Date
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\obj\Debug\Fluent-API.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\obj\Debug\Fluent-API.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\obj\Debug\Fluent_API.Migrations.initialModel.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day19\Fluent-API\Fluent-API\obj\Debug\Fluent-API.csproj.GenerateResource.cache

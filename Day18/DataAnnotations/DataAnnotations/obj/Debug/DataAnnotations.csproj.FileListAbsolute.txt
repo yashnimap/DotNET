@@ -1,0 +1,14 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe.config
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\bin\Debug\DataAnnotations.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\obj\Debug\DataAnno.5B934113.Up2Date
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.Migrations.initialModel.resources
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day18\DataAnnotations\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.cache
