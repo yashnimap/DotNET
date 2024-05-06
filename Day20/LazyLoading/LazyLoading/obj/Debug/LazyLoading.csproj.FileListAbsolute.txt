@@ -1,0 +1,12 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\bin\Debug\LazyLoading.exe.config
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\bin\Debug\LazyLoading.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\bin\Debug\LazyLoading.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\obj\Debug\LazyLoading.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\obj\Debug\LazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\obj\Debug\LazyLoad.AC05E22E.Up2Date
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\obj\Debug\LazyLoading.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day20\LazyLoading\LazyLoading\obj\Debug\LazyLoading.pdb

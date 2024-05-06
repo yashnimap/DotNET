@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day19\\Fluent-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day19\\Fluent-API\\fluent-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day19\\fluent-api\\fluent-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|solutionrelative:fluent-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|solutionrelative:fluent-api\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day19\\fluent-api\\fluent-api\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day19\\Fluent-API\\fluent-api\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|solutionrelative:fluent-api\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,8 +51,7 @@
               "ViewState": "AQIAABIAAAAAAAAAAAAYwBcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T07:17:37.561Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Fluent-API\\PlutoContext.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAYwAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T07:20:57.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T07:20:57.099Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Fluent-API\\Cover.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T09:18:35.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T09:18:35.204Z"
             },
             {
               "$type": "Document",
@@ -124,7 +121,7 @@
               "RelativeDocumentMoniker": "Fluent-API\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day19\\Fluent-API\\Fluent-API\\Program.cs",
               "RelativeToolTip": "Fluent-API\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCEAAAArAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T07:14:01.161Z",
               "EditorCaption": ""

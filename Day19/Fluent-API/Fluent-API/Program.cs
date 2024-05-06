@@ -18,21 +18,26 @@ namespace Fluent_API
                         where c.Name.Contains("c#")
                         orderby c.Name
                         select c;
-            //foreach (var item in query)
-            //{
-            //    Console.WriteLine(item.Name);
-            //    //Console.WriteLine(item.Id+" "+item.Name+" "+item.Description);
-            //}
+
+            var authors = from a in context.Authors
+                          where a.Name.Contains("Tom")
+                          select a;
+            
+            foreach (var item in authors)
+            {
+                Console.WriteLine(item.Name);
+                //Console.WriteLine(item.Id+" "+item.Name+" "+item.Description);
+            }
 
             //Extension method
             var courses = context.Courses
                 .Where(c => c.Name.Contains("c#"))
                 .OrderBy(c => c.Name);
 
-            foreach (var item in query)
-            {
-                Console.WriteLine(item.Name);
-            }
+            //foreach (var item in query)
+            //{
+            //    Console.WriteLine(item.Name);
+            //}
         }
     }
 }
