@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\fluent-api\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|solutionrelative:fluent-api\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\fluent-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|solutionrelative:fluent-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day20\\fluent-api\\fluent-api\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|solutionrelative:fluent-api\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\fluent-api\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|solutionrelative:fluent-api\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\fluent-api\\plutocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|solutionrelative:fluent-api\\plutocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day20\\fluent-api\\fluent-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|solutionrelative:fluent-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day20\\fluent-api\\fluent-api\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|solutionrelative:fluent-api\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\fluent-api\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Queries.csproj|solutionrelative:fluent-api\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\fluent-api\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC2DAFA-67D0-4B5E-897E-D438B0CB88BE}|Fluent-API\\Fluent-API.csproj|solutionrelative:fluent-api\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,36 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 761,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Cover.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\Cover.cs",
+              "RelativeDocumentMoniker": "Fluent-API\\Cover.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\Cover.cs",
+              "RelativeToolTip": "Fluent-API\\Cover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:41:03.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\App.config",
               "RelativeDocumentMoniker": "Fluent-API\\App.config",
               "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\App.config",
               "RelativeToolTip": "Fluent-API\\App.config",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAcwA8AAABSAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-06T04:11:20.718Z"
+              "WhenOpened": "2024-05-06T04:11:20.718Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\Course.cs",
               "RelativeDocumentMoniker": "Fluent-API\\Course.cs",
               "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\Course.cs",
               "RelativeToolTip": "Fluent-API\\Course.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T04:11:03.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlutoContext.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\PlutoContext.cs",
               "RelativeDocumentMoniker": "Fluent-API\\PlutoContext.cs",
@@ -72,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Cover.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\Cover.cs",
               "RelativeDocumentMoniker": "Fluent-API\\Cover.cs",
@@ -84,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\Program.cs",
               "RelativeDocumentMoniker": "Fluent-API\\Program.cs",
               "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day20\\Fluent-API\\Fluent-API\\Program.cs",
               "RelativeToolTip": "Fluent-API\\Program.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAQwHsAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T07:14:01.161Z",
               "EditorCaption": ""
