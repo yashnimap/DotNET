@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EntityCodeFirst",
+    "\\EntityCodeFirst\\EntityCodeFirst",
+    "\\EntityCodeFirst\\EntityCodeFirst\\Controllers",
+    "\\EntityCodeFirst\\EntityCodeFirst\\Models"
+  ],
+  "SelectedNode": "\\EntityCodeFirst\\EntityCodeFirst\\Controllers\\NorthwindController.cs",
+  "PreviewInSolutionExplorer": false
+}
