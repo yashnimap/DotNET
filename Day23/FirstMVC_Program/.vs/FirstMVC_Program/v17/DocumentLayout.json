@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day23\\firstmvc_program\\firstmvc_program\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|solutionrelative:firstmvc_program\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\firstmvc_program\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|solutionrelative:firstmvc_program\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\firstmvc_program\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|solutionrelative:firstmvc_program\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\firstmvc_program\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|solutionrelative:firstmvc_program\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\firstmvc_program\\viewmodels\\randommovieviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE68B8C-9823-43FE-93CB-68A29E74C799}|FirstMVC_Program\\FirstMVC_Program.csproj|solutionrelative:firstmvc_program\\viewmodels\\randommovieviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 682,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandomMovieViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\ViewModels\\RandomMovieViewModels.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Program\\ViewModels\\RandomMovieViewModels.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\ViewModels\\RandomMovieViewModels.cs",
+              "RelativeToolTip": "FirstMVC_Program\\ViewModels\\RandomMovieViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:02:27.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Program\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\Models\\Customer.cs",
+              "RelativeToolTip": "FirstMVC_Program\\Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:59:57.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\Views\\Movies\\Random.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Program\\Views\\Movies\\Random.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\Views\\Movies\\Random.cshtml",
+              "RelativeToolTip": "FirstMVC_Program\\Views\\Movies\\Random.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T09:00:00.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Program\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "FirstMVC_Program\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:49:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Program\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day23\\FirstMVC_Program\\FirstMVC_Program\\Models\\Movie.cs",
+              "RelativeToolTip": "FirstMVC_Program\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:46:50.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 682,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
