@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day24\\vidly\\vidly\\viewmodels\\randommovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|solutionrelative:vidly\\viewmodels\\randommovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day24\\vidly\\vidly\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\vidly\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\vidly\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day24\\vidly\\vidly\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|solutionrelative:vidly\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\vidly\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|solutionrelative:vidly\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day24\\vidly\\vidly\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day24\\vidly\\vidly\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9318365-CE03-4B6D-AB0B-9A98BF6C3471}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 682,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Vidly\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAA6fHN69ESwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T04:30:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomMovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\ViewModels\\RandomMovieViewModel.cs",
+              "RelativeDocumentMoniker": "Vidly\\ViewModels\\RandomMovieViewModel.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\ViewModels\\RandomMovieViewModel.cs",
+              "RelativeToolTip": "Vidly\\ViewModels\\RandomMovieViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:24:19.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Vidly\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Vidly\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:15:24.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Models\\Customer.cs",
+              "RelativeToolTip": "Vidly\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:15:02.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Models\\Movie.cs",
+              "RelativeToolTip": "Vidly\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:13:20.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Vidly\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T12:11:01.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Views\\Movies\\Random.cshtml",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Movies\\Random.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Views\\Movies\\Random.cshtml",
+              "RelativeToolTip": "Vidly\\Views\\Movies\\Random.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T12:08:23.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Vidly\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day24\\Vidly\\Vidly\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Vidly\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T10:53:03.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 682,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

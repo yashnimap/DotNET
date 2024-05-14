@@ -1,0 +1,56 @@
+﻿@using RazorSyntax.Models
+@model RazorSyntax.Models.Employees
+<html>
+<head>
+
+</head>
+<body>
+    @*<div>
+            Hello from Nimap InfotechS
+        </div>
+        <div>
+            @DateTime.Now
+        </div>
+        <div>
+            @(5-3)
+        </div>
+        @{
+            var a = 1;
+            var b = 2;
+            var c = a + b;
+            var currentTime = DateTime.Now;
+            var tomarrowTime = DateTime.Now.AddDays(1);
+            var colorsTime = new List<string>() { "Red", "Green", "Blue", "Black" };
+        }
+
+        <div>
+            <label>@c</label>
+            <label>Current time - @currentTime</label><br/>
+            <label>Tomorrow time - @tomarrowTime</label><br />
+
+            <label>@colorsTime.FirstOrDefault()</label>
+        </div>*@
+
+    @*Escape Syntax In raazor*@
+    @*<div>
+            <label>My Email ID is : - @@Yash_Jadhav</label>
+        </div>*@
+
+    <div>
+        @{
+            Employees emp = new Employees
+            {
+                id = 1,
+                name = "Yash"
+            };
+         }
+    </div>
+
+    <div>
+        ID = @emp.id <br />
+        Name = @emp.name
+    </div>
+</body>
+</html>
+
+

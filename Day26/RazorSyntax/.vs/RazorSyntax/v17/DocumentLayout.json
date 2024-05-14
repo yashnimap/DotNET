@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day26\\RazorSyntax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD190BB-D767-4B0B-8EC9-261B1B036BAA}|RazorSyntax\\RazorSyntax.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day26\\razorsyntax\\razorsyntax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD190BB-D767-4B0B-8EC9-261B1B036BAA}|RazorSyntax\\RazorSyntax.csproj|solutionrelative:razorsyntax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD190BB-D767-4B0B-8EC9-261B1B036BAA}|RazorSyntax\\RazorSyntax.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day26\\RazorSyntax\\razorsyntax\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD190BB-D767-4B0B-8EC9-261B1B036BAA}|RazorSyntax\\RazorSyntax.csproj|solutionrelative:razorsyntax\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD190BB-D767-4B0B-8EC9-261B1B036BAA}|RazorSyntax\\RazorSyntax.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day26\\RazorSyntax\\razorsyntax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD190BB-D767-4B0B-8EC9-261B1B036BAA}|RazorSyntax\\RazorSyntax.csproj|solutionrelative:razorsyntax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day26\\RazorSyntax\\RazorSyntax\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "RazorSyntax\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day26\\RazorSyntax\\RazorSyntax\\Models\\Employees.cs",
+              "RelativeToolTip": "RazorSyntax\\Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:07:00.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day26\\RazorSyntax\\RazorSyntax\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorSyntax\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day26\\RazorSyntax\\RazorSyntax\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RazorSyntax\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:15:45.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day26\\RazorSyntax\\RazorSyntax\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RazorSyntax\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day26\\RazorSyntax\\RazorSyntax\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RazorSyntax\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:15:10.761Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 682,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
