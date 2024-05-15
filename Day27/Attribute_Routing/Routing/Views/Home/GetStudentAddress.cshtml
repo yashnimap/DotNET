@@ -1,0 +1,46 @@
+﻿@model Routing.Models.Address
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetStudentAddress</title>
+</head>
+<body>
+    <div>
+        <h4>Address</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.HomeNumber)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.HomeNumber)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Address1)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Address1)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.city)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.city)
+            </dd>
+    
+        </dl>
+    </div>
+</body>
+</html>
