@@ -14,10 +14,15 @@ namespace Validations.Controllers
         {
             return View();
         }
+        
         [HttpPost]
-        public ActionResult SubmitData(Employee employee)
+        public ActionResult SubmitData(Employee emp)
         {
-            return View();
+            if(ModelState.IsValid)
+            {
+                return View();
+            }
+            return View("Index");
         }
     }
 }

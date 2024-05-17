@@ -16,10 +16,21 @@
     <div>
         @using (Html.BeginForm("SubmitData", "Home", FormMethod.Post))
         {
-            @Html.TextBox("firstName")<br /><br />
-            @Html.TextBox("LastName")<br /><br />
-            @Html.TextBox("Email")<br /><br />
-            @Html.TextBox("Age")<br /><br />
+            @Html.ValidationSummary()
+            
+            @Html.TextBox("firstName")<br />
+            @Html.ValidationMessage("firstName")<br />
+
+            @Html.TextBox("LastName")<br />
+            @Html.ValidationMessage("LastName")
+            <br />
+
+            @Html.TextBox("Email")<br />
+            @Html.ValidationMessage("Email")
+            <br />
+            @Html.TextBox("Age")<br />
+            @Html.ValidationMessage("Age")
+            <br />
             <br />
             <input type="submit" value="Click me" />
         }

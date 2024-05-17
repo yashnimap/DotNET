@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day27\\validation\\validation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validation.csproj|solutionrelative:validation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validations.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\validation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validations.csproj|solutionrelative:validation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day27\\validation\\validation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validations.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\validation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validations.csproj|solutionrelative:validation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validations.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\validation\\views\\home\\submitdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validations.csproj|solutionrelative:validation\\views\\home\\submitdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validations.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day27\\validation\\validation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validations.csproj|solutionrelative:validation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validation.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\validation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validation.csproj|solutionrelative:validation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day27\\validation\\validation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{375F2EEC-E187-45E5-8733-3B8DF2A7D79F}|Validation\\Validation.csproj|solutionrelative:validation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Validation\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Validation\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Title": "SubmitData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Views\\Home\\SubmitData.cshtml",
+              "RelativeDocumentMoniker": "Validation\\Views\\Home\\SubmitData.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Views\\Home\\SubmitData.cshtml",
+              "RelativeToolTip": "Validation\\Views\\Home\\SubmitData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T11:58:45.698Z",
+              "WhenOpened": "2024-05-16T04:34:53.313Z",
               "EditorCaption": ""
             },
             {
@@ -45,10 +53,35 @@
               "RelativeDocumentMoniker": "Validation\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Models\\Employee.cs",
               "RelativeToolTip": "Validation\\Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:22:55.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Validation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Validation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:18:07.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Validation\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Models\\Employee.cs",
+              "RelativeToolTip": "Validation\\Models\\Employee.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:06:52.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T11:06:52.288Z"
             },
             {
               "$type": "Document",
@@ -58,7 +91,7 @@
               "RelativeDocumentMoniker": "Validation\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day27\\Validation\\Validation\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Validation\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAIAAAA",
+              "ViewState": "AQIAAAkAAAAAvphPvT3yvxgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T11:05:57.99Z",
               "EditorCaption": ""

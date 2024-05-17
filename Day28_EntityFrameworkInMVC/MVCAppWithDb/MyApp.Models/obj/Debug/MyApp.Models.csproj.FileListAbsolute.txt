@@ -1,0 +1,12 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28\MVCAppWithDb\MyApp.Models\bin\Debug\MyApp.Models.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28\MVCAppWithDb\MyApp.Models\bin\Debug\MyApp.Models.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28\MVCAppWithDb\MyApp.Models\obj\Debug\MyApp.Models.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28\MVCAppWithDb\MyApp.Models\obj\Debug\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28\MVCAppWithDb\MyApp.Models\obj\Debug\MyApp.Models.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28\MVCAppWithDb\MyApp.Models\obj\Debug\MyApp.Models.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28_EntityFrameworkInMVC\MVCAppWithDb\MyApp.Models\bin\Debug\MyApp.Models.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28_EntityFrameworkInMVC\MVCAppWithDb\MyApp.Models\bin\Debug\MyApp.Models.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28_EntityFrameworkInMVC\MVCAppWithDb\MyApp.Models\obj\Debug\MyApp.Models.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28_EntityFrameworkInMVC\MVCAppWithDb\MyApp.Models\obj\Debug\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28_EntityFrameworkInMVC\MVCAppWithDb\MyApp.Models\obj\Debug\MyApp.Models.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Day28_EntityFrameworkInMVC\MVCAppWithDb\MyApp.Models\obj\Debug\MyApp.Models.pdb
