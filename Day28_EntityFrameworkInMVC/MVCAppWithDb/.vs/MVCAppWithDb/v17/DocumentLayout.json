@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\myappdb\\dboperation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day28_entityframeworkinmvc\\mvcappwithdb\\myappdb\\dboperation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|solutionrelative:myappdb\\dboperation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,19 +11,19 @@
       "RelativeMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|solutionrelative:mvcappwithdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day28_entityframeworkinmvc\\mvcappwithdb\\mvcappwithdb\\views\\home\\getallrecords.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\mvcappwithdb\\views\\home\\getallrecords.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|solutionrelative:mvcappwithdb\\views\\home\\getallrecords.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day28_entityframeworkinmvc\\mvcappwithdb\\mvcappwithdb\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\mvcappwithdb\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|solutionrelative:mvcappwithdb\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day28_entityframeworkinmvc\\mvcappwithdb\\mvcappwithdb\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\mvcappwithdb\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|solutionrelative:mvcappwithdb\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day28_entityframeworkinmvc\\mvcappwithdb\\mvcappwithdb\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\mvcappwithdb\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E52F90B-6619-49F7-8381-01DA8C7A40F8}|MVCAppWithDb\\MVCAppWithDb.csproj|solutionrelative:mvcappwithdb\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -35,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|solutionrelative:myappdb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D760B150-595F-49E8-A339-38DF465396EC}|MyApp.Models\\MyApp.Models.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day28_entityframeworkinmvc\\mvcappwithdb\\myapp.models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D760B150-595F-49E8-A339-38DF465396EC}|MyApp.Models\\MyApp.Models.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\myapp.models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D760B150-595F-49E8-A339-38DF465396EC}|MyApp.Models\\MyApp.Models.csproj|solutionrelative:myapp.models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,11 +43,11 @@
       "RelativeMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|solutionrelative:myappdb\\mymodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day28_entityframeworkinmvc\\mvcappwithdb\\myappdb\\mymodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\myappdb\\mymodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|solutionrelative:myappdb\\mymodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day28_entityframeworkinmvc\\mvcappwithdb\\myappdb\\mymodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\myappdb\\mymodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{5B5EC604-B467-4CEB-9214-D3732BBD5D3B}|MyAppDb\\MyAppDb.csproj|solutionrelative:myappdb\\mymodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
@@ -94,8 +94,7 @@
               "RelativeToolTip": "MVCAppWithDb\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T06:26:36.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T06:26:36.255Z"
             },
             {
               "$type": "Document",
@@ -107,8 +106,7 @@
               "RelativeToolTip": "MVCAppWithDb\\Views\\Home\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T05:52:32.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T05:52:32.553Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "MVCAppWithDb\\Views\\Home\\GetAllRecords.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T04:51:02.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T04:51:02.321Z"
             },
             {
               "$type": "Document",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "MVCAppWithDb\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAmwDMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:17:01.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T07:17:01.492Z"
             },
             {
               "$type": "Document",
@@ -159,8 +155,7 @@
               "RelativeToolTip": "MyApp.Models\\AddressModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:04:26.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T07:04:26.163Z"
             },
             {
               "$type": "Document",
@@ -172,8 +167,7 @@
               "RelativeToolTip": "MVCAppWithDb\\Views\\Home\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T05:35:45.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T05:35:45.811Z"
             },
             {
               "$type": "Document",
@@ -185,8 +179,7 @@
               "RelativeToolTip": "MyApp.Models\\EmployeeModel.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAIwA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:59:45.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:59:45.843Z"
             },
             {
               "$type": "Document",
@@ -198,8 +191,7 @@
               "RelativeToolTip": "MyAppDb\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:46:36.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:46:36.978Z"
             },
             {
               "$type": "Document",
@@ -211,8 +203,7 @@
               "RelativeToolTip": "MyAppDb\\MyModel.Context.tt",
               "ViewState": "AQIAABcAAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-16T11:39:39.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T11:39:39.176Z"
             },
             {
               "$type": "Document",
@@ -224,8 +215,7 @@
               "RelativeToolTip": "MyAppDb\\MyModel.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T04:19:59.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T04:19:59.656Z"
             },
             {
               "$type": "Document",
@@ -236,8 +226,7 @@
               "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day28_EntityFrameworkInMVC\\MVCAppWithDb\\MyAppDb\\MyModel.edmx [Diagram1]",
               "RelativeToolTip": "MyAppDb\\MyModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-05-17T04:19:53.767Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-05-17T04:19:53.767Z"
             },
             {
               "$type": "Document",
@@ -261,8 +250,7 @@
               "RelativeToolTip": "MVCAppWithDb\\Views\\Home\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T09:03:59.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:03:59.689Z"
             },
             {
               "$type": "Document",
@@ -298,8 +286,7 @@
               "RelativeToolTip": "MyAppDb\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-16T10:12:47.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T10:12:47.781Z"
             },
             {
               "$type": "Document",
