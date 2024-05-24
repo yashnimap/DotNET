@@ -11,9 +11,11 @@ namespace WebApi_CRUD.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Employee
     {
+        [Key]
         public int id { get; set; }
         public string name { get; set; }
         public string gender { get; set; }

@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\webapi_crud_1\\controllers\\crudmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\controllers\\crudmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day30\\webapi_crud_1\\webapi_crud_1\\controllers\\crudapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\controllers\\crudapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day30\\webapi_crud_1\\webapi_crud_1\\views\\crudmvc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\views\\crudmvc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day30\\webapi_crud_1\\webapi_crud_1\\views\\crudmvc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\views\\crudmvc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\day30\\webapi_crud_1\\webapi_crud_1\\views\\crudmvc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\views\\crudmvc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\webapi_crud_1\\views\\crudmvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\views\\crudmvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\webapi_crud_1\\views\\crudmvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\views\\crudmvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\webapi_crud_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\webapi_crud_1\\models\\employeedb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\models\\employeedb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\webapi_crud_1\\models\\employeedb.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\models\\employeedb.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\webapi_crud_1\\models\\employeedb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\models\\employeedb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\webapi_crud_1\\models\\employeedb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0838A6DB-08E9-4A05-ABCE-5A864484EED9}|WebApi_CRUD_1\\WebApi_CRUD_1.csproj|solutionrelative:webapi_crud_1\\models\\employeedb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 682,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Views\\CrudMVC\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Create.cshtml",
+              "RelativeToolTip": "WebApi_CRUD_1\\Views\\CrudMVC\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:36:56.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Views\\CrudMVC\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Index.cshtml",
+              "RelativeToolTip": "WebApi_CRUD_1\\Views\\CrudMVC\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:27:06.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApi_CRUD_1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:21:46.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudMVCController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Controllers\\CrudMVCController.cs",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Controllers\\CrudMVCController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Controllers\\CrudMVCController.cs",
+              "RelativeToolTip": "WebApi_CRUD_1\\Controllers\\CrudMVCController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAwIEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:21:31.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrudApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Controllers\\CrudApiController.cs",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Controllers\\CrudApiController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Controllers\\CrudApiController.cs",
+              "RelativeToolTip": "WebApi_CRUD_1\\Controllers\\CrudApiController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:16:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Views\\CrudMVC\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Delete.cshtml",
+              "RelativeToolTip": "WebApi_CRUD_1\\Views\\CrudMVC\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T11:17:02.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Views\\CrudMVC\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Edit.cshtml",
+              "RelativeToolTip": "WebApi_CRUD_1\\Views\\CrudMVC\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:38:12.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Views\\CrudMVC\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Views\\CrudMVC\\Details.cshtml",
+              "RelativeToolTip": "WebApi_CRUD_1\\Views\\CrudMVC\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:14:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDb.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Models\\EmployeeDb.edmx",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Models\\EmployeeDb.edmx",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Models\\EmployeeDb.edmx [Diagram1]",
+              "RelativeToolTip": "WebApi_CRUD_1\\Models\\EmployeeDb.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-24T06:14:39.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeDb.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Models\\EmployeeDb.edmx.diagram",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Models\\EmployeeDb.edmx.diagram",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Models\\EmployeeDb.edmx.diagram",
+              "RelativeToolTip": "WebApi_CRUD_1\\Models\\EmployeeDb.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-24T06:14:36.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Models\\EmployeeDb.Designer.cs",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Models\\EmployeeDb.Designer.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Models\\EmployeeDb.Designer.cs",
+              "RelativeToolTip": "WebApi_CRUD_1\\Models\\EmployeeDb.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:14:34.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeDb.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Models\\EmployeeDb.Context.cs",
+              "RelativeDocumentMoniker": "WebApi_CRUD_1\\Models\\EmployeeDb.Context.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Day30\\WebApi_CRUD_1\\WebApi_CRUD_1\\Models\\EmployeeDb.Context.cs",
+              "RelativeToolTip": "WebApi_CRUD_1\\Models\\EmployeeDb.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:14:27.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
