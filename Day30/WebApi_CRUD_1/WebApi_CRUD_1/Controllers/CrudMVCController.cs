@@ -118,16 +118,17 @@ namespace WebApi_CRUD_1.Controllers
             return View(e);
         }
 
-        [HttpPost, ActionName("Delete")]
+        [HttpDelete, ActionName("Delete")]
         public ActionResult DeleteConfirmed(int id)
         {
             client.BaseAddress = new Uri("http://localhost:55409/api/CrudApi");
-            var response = client.DeleteAsync("CrudApi/"+ id.ToString());
+            var response = client.DeleteAsync("CrudApi?id="+ id.ToString());
             response.Wait();
 
             var test = response.Result;
             if (test.IsSuccessStatusCode)
             {
+
                 return RedirectToAction("Index");
             }
             return View("Delete");

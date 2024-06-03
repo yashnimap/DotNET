@@ -1,0 +1,6 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Dependency_Injection\BL\bin\Debug\BL.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Dependency_Injection\BL\bin\Debug\BL.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Dependency_Injection\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Dependency_Injection\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Dependency_Injection\BL\obj\Debug\BL.dll
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Dependency_Injection\BL\obj\Debug\BL.pdb

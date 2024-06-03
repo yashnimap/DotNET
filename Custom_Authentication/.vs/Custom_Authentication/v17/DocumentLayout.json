@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\custom_authentication\\custom_authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|solutionrelative:custom_authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\custom_authentication\\custom_authentication\\filters\\yashauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|solutionrelative:custom_authentication\\filters\\yashauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\custom_authentication\\custom_authentication\\filters\\myactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|solutionrelative:custom_authentication\\filters\\myactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\custom_authentication\\custom_authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|solutionrelative:custom_authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\custom_authentication\\custom_authentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|solutionrelative:custom_authentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\custom_authentication\\custom_authentication\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|solutionrelative:custom_authentication\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\custom_authentication\\custom_authentication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|solutionrelative:custom_authentication\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\custom_authentication\\custom_authentication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|solutionrelative:custom_authentication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\custom_authentication\\custom_authentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1D51EA-C33F-48F5-BA10-B28D8C03FE6E}|Custom_Authentication\\Custom_Authentication.csproj|solutionrelative:custom_authentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\filters\\MyActionFilter.cs",
+              "RelativeDocumentMoniker": "Custom_Authentication\\filters\\MyActionFilter.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\filters\\MyActionFilter.cs",
+              "RelativeToolTip": "Custom_Authentication\\filters\\MyActionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:43:49.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YashAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\filters\\YashAuthentication.cs",
+              "RelativeDocumentMoniker": "Custom_Authentication\\filters\\YashAuthentication.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\filters\\YashAuthentication.cs",
+              "RelativeToolTip": "Custom_Authentication\\filters\\YashAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:08:14.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Web.config",
+              "RelativeDocumentMoniker": "Custom_Authentication\\Web.config",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Web.config",
+              "RelativeToolTip": "Custom_Authentication\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-03T09:06:53.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Custom_Authentication\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Custom_Authentication\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:01:37.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Custom_Authentication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Models\\User.cs",
+              "RelativeToolTip": "Custom_Authentication\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:00:08.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Custom_Authentication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Custom_Authentication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T08:59:51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Custom_Authentication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Custom_Authentication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:58:54.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Custom_Authentication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Custom_Authentication\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:58:34.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Custom_Authentication\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\Custom_Authentication\\Custom_Authentication\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Custom_Authentication\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T09:21:37.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
