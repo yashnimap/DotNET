@@ -1,0 +1,14 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Depedency_Injection\Depedency_Injection\bin\Debug\Depedency_Injection.exe.config
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Depedency_Injection\Depedency_Injection\bin\Debug\Depedency_Injection.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Depedency_Injection\Depedency_Injection\bin\Debug\Depedency_Injection.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Depedency_Injection\Depedency_Injection\obj\Debug\Depedency_Injection.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Depedency_Injection\Depedency_Injection\obj\Debug\Depedency_Injection.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Depedency_Injection\Depedency_Injection\obj\Debug\Depedency_Injection.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\Depedency_Injection\Depedency_Injection\obj\Debug\Depedency_Injection.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\DI\Depedency_Injection\Depedency_Injection\obj\Debug\Depedency_Injection.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\DI\Depedency_Injection\Depedency_Injection\obj\Debug\Depedency_Injection.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\DI\Depedency_Injection\Depedency_Injection\obj\Debug\Depedency_Injection.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\DI\Depedency_Injection\Depedency_Injection\obj\Debug\Depedency_Injection.pdb
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\DI\Depedency_Injection\Depedency_Injection\bin\Debug\Depedency_Injection.exe.config
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\DI\Depedency_Injection\Depedency_Injection\bin\Debug\Depedency_Injection.exe
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\DI\Depedency_Injection\Depedency_Injection\bin\Debug\Depedency_Injection.pdb

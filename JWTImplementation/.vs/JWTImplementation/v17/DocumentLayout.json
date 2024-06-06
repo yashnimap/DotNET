@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\services\\empolyeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\services\\empolyeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\requestmodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\requestmodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\jwtimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\jwtimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\context\\jwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\context\\jwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\jwtimplementation\\jwtimplementation\\migrations\\20240605060749_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94095729-DEDD-40F0-839E-85CB61C17CD6}|JWTImplementation\\JWTImplementation.csproj|solutionrelative:jwtimplementation\\migrations\\20240605060749_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "JWTImplementation\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:09:51.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Services\\AuthService.cs",
+              "RelativeToolTip": "JWTImplementation\\Services\\AuthService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:29:10.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "JWTImplementation\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:20:15.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Program.cs",
+              "RelativeToolTip": "JWTImplementation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:52:20.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpolyeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Services\\EmpolyeeService.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Services\\EmpolyeeService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Services\\EmpolyeeService.cs",
+              "RelativeToolTip": "JWTImplementation\\Services\\EmpolyeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:29:32.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Models\\Employee.cs",
+              "RelativeToolTip": "JWTImplementation\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:44:34.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTImplementation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:27:36.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JWTImplementation.csproj",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\JWTImplementation.csproj",
+              "RelativeDocumentMoniker": "JWTImplementation\\JWTImplementation.csproj",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\JWTImplementation.csproj",
+              "RelativeToolTip": "JWTImplementation\\JWTImplementation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T06:18:33.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "JWTImplementation\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:20:32.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\RequestModels\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\RequestModels\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\RequestModels\\LoginRequest.cs",
+              "RelativeToolTip": "JWTImplementation\\RequestModels\\LoginRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:25:30.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240605060749_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Migrations\\20240605060749_InitialMigration.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Migrations\\20240605060749_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Migrations\\20240605060749_InitialMigration.cs",
+              "RelativeToolTip": "JWTImplementation\\Migrations\\20240605060749_InitialMigration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:07:49.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTImplementation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\appsettings.json",
+              "RelativeToolTip": "JWTImplementation\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T05:55:31.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Context\\JwtContext.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Context\\JwtContext.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Context\\JwtContext.cs",
+              "RelativeToolTip": "JWTImplementation\\Context\\JwtContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:46:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWTImplementation\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\JWTImplementation\\JWTImplementation\\Models\\User.cs",
+              "RelativeToolTip": "JWTImplementation\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T05:43:44.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

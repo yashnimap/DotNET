@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\IdentityTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401043C9-3FFB-4025-A85A-1532EEB43B24}|IdentityTables\\IdentityTables.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\identitytables\\identitytables\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{401043C9-3FFB-4025-A85A-1532EEB43B24}|IdentityTables\\IdentityTables.csproj|solutionrelative:identitytables\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401043C9-3FFB-4025-A85A-1532EEB43B24}|IdentityTables\\IdentityTables.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\identitytables\\identitytables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401043C9-3FFB-4025-A85A-1532EEB43B24}|IdentityTables\\IdentityTables.csproj|solutionrelative:identitytables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401043C9-3FFB-4025-A85A-1532EEB43B24}|IdentityTables\\IdentityTables.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\identitytables\\identitytables\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401043C9-3FFB-4025-A85A-1532EEB43B24}|IdentityTables\\IdentityTables.csproj|solutionrelative:identitytables\\authentication\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401043C9-3FFB-4025-A85A-1532EEB43B24}|IdentityTables\\IdentityTables.csproj|c:\\users\\nimap\\onedrive\\desktop\\c# advance\\identitytables\\identitytables\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401043C9-3FFB-4025-A85A-1532EEB43B24}|IdentityTables\\IdentityTables.csproj|solutionrelative:identitytables\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\IdentityTables\\IdentityTables\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityTables\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\IdentityTables\\IdentityTables\\appsettings.json*",
+              "RelativeToolTip": "IdentityTables\\appsettings.json*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T09:57:47.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\IdentityTables\\IdentityTables\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityTables\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\IdentityTables\\IdentityTables\\Program.cs*",
+              "RelativeToolTip": "IdentityTables\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:37:38.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\IdentityTables\\IdentityTables\\Authentication\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityTables\\Authentication\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\IdentityTables\\IdentityTables\\Authentication\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "IdentityTables\\Authentication\\ApplicationDbContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:30:59.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\IdentityTables\\IdentityTables\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "IdentityTables\\Authentication\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Nimap\\OneDrive\\Desktop\\c# Advance\\IdentityTables\\IdentityTables\\Authentication\\ApplicationUser.cs*",
+              "RelativeToolTip": "IdentityTables\\Authentication\\ApplicationUser.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:27:20.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

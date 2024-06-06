@@ -1,0 +1,8 @@
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\IdentityTables\IdentityTables\obj\Debug\net8.0\IdentityTables.csproj.AssemblyReference.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\IdentityTables\IdentityTables\obj\Debug\net8.0\IdentityTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\IdentityTables\IdentityTables\obj\Debug\net8.0\IdentityTables.AssemblyInfoInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\IdentityTables\IdentityTables\obj\Debug\net8.0\IdentityTables.AssemblyInfo.cs
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\IdentityTables\IdentityTables\obj\Debug\net8.0\IdentityTables.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\IdentityTables\IdentityTables\obj\Debug\net8.0\IdentityTables.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\IdentityTables\IdentityTables\obj\Debug\net8.0\IdentityTables.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nimap\OneDrive\Desktop\c# Advance\IdentityTables\IdentityTables\obj\Debug\net8.0\IdentityTables.sourcelink.json
